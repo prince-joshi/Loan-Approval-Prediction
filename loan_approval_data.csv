@@ -1,0 +1,501 @@
+ApplicantID,Age,Gender,Married,Dependent,Education,Self_Employed,Annual_Income,Loan_Amount_Lakhs,Loan_Term_Years,Credit_Score,Loan_Status
+APP0001,39,Female,No,0,Graduate,No,4.4,19.3,15,588,Rejected
+APP0002,33,Male,Yes,1,Not Graduate,No,10.1,40.0,25,753,Approved
+APP0003,41,Male,No,1,Graduate,No,4.8,9.9,15,585,Approved
+APP0004,50,Female,Yes,1,Graduate,No,5.9,41.1,10,641,Rejected
+APP0005,32,Female,Yes,3,Graduate,No,6.1,41.5,25,590,Rejected
+APP0006,32,Male,No,1,Not Graduate,No,2.0,5.3,25,659,Approved
+APP0007,50,Male,Yes,3,Graduate,No,6.0,32.8,30,705,Approved
+APP0008,42,Male,No,2,Not Graduate,No,4.0,19.1,25,645,Rejected
+APP0009,30,Male,No,0,Graduate,Yes,4.8,12.2,20,617,Approved
+APP0010,40,Male,Yes,3,Graduate,No,14.4,113.5,25,684,Approved
+APP0011,30,Male,Yes,0,Graduate,No,2.8,9.2,25,742,Approved
+APP0012,30,Male,Yes,2,Graduate,No,9.9,23.8,10,681,Approved
+APP0013,37,Male,Yes,0,Graduate,No,5.1,28.4,25,733,Approved
+APP0014,18,Female,No,2,Not Graduate,No,5.1,32.8,30,641,Rejected
+APP0015,18,Male,Yes,2,Not Graduate,No,9.7,21.3,20,725,Approved
+APP0016,29,Male,Yes,2,Not Graduate,No,7.4,44.0,20,763,Approved
+APP0017,24,Male,Yes,2,Graduate,No,8.5,44.1,15,750,Approved
+APP0018,38,Female,Yes,0,Not Graduate,No,10.8,28.3,15,700,Approved
+APP0019,25,Male,No,0,Graduate,No,5.0,15.2,20,710,Rejected
+APP0020,20,Male,Yes,1,Not Graduate,Yes,4.2,22.7,25,685,Rejected
+APP0021,49,Female,No,0,Graduate,Yes,3.9,12.1,10,680,Approved
+APP0022,32,Female,Yes,1,Graduate,No,3.7,28.2,30,695,Rejected
+APP0023,35,Female,No,0,Graduate,No,35.5,200.0,25,725,Rejected
+APP0024,20,Male,Yes,3,Not Graduate,No,12.8,101.1,25,767,Approved
+APP0025,29,Male,Yes,1,Graduate,Yes,2.8,9.6,25,640,Rejected
+APP0026,36,Female,No,2,Graduate,No,2.7,21.1,10,634,Rejected
+APP0027,23,Female,Yes,0,Graduate,No,8.1,37.2,20,631,Rejected
+APP0028,38,Male,No,2,Not Graduate,Yes,8.7,34.3,25,553,Rejected
+APP0029,28,Male,No,3,Not Graduate,Yes,8.8,19.3,25,576,Rejected
+APP0030,32,Male,Yes,1,Not Graduate,No,5.2,12.0,25,694,Approved
+APP0031,28,Female,Yes,1,Not Graduate,No,5.6,34.5,20,631,Rejected
+APP0032,53,Male,No,2,Graduate,No,7.4,35.1,30,725,Rejected
+APP0033,34,Male,Yes,0,Graduate,No,6.4,21.5,15,717,Approved
+APP0034,24,Male,Yes,1,Not Graduate,No,2.0,11.4,30,566,Rejected
+APP0035,43,Male,Yes,0,Graduate,Yes,6.5,18.6,30,739,Approved
+APP0036,22,Male,Yes,0,Not Graduate,No,3.6,19.7,15,763,Approved
+APP0037,37,Male,Yes,0,Graduate,No,6.7,27.8,25,655,Approved
+APP0038,18,Female,No,0,Not Graduate,No,36.3,200.0,10,760,Rejected
+APP0039,21,Male,No,0,Not Graduate,No,7.5,51.9,20,643,Rejected
+APP0040,36,Male,No,0,Not Graduate,No,5.0,24.3,25,670,Rejected
+APP0041,42,Male,No,3,Graduate,No,10.5,43.1,25,659,Rejected
+APP0042,36,Male,Yes,1,Graduate,No,8.1,33.8,30,607,Approved
+APP0043,33,Male,No,3,Not Graduate,No,7.8,53.3,25,642,Rejected
+APP0044,31,Male,Yes,1,Graduate,No,8.7,34.5,20,707,Approved
+APP0045,20,Male,Yes,0,Not Graduate,Yes,25.3,67.7,25,716,Approved
+APP0046,27,Male,Yes,1,Graduate,Yes,3.1,7.8,30,628,Approved
+APP0047,30,Male,Yes,1,Not Graduate,No,8.0,38.4,10,661,Rejected
+APP0048,45,Female,No,0,Not Graduate,No,3.5,17.1,30,681,Rejected
+APP0049,38,Male,No,1,Graduate,Yes,8.1,59.2,10,677,Approved
+APP0050,18,Female,Yes,0,Not Graduate,No,3.5,11.6,25,695,Rejected
+APP0051,38,Male,Yes,1,Graduate,Yes,4.9,20.1,20,659,Rejected
+APP0052,31,Female,No,1,Not Graduate,No,5.1,34.9,15,735,Approved
+APP0053,28,Female,Yes,0,Not Graduate,No,10.9,75.7,20,654,Rejected
+APP0054,41,Male,Yes,0,Not Graduate,No,10.5,45.2,25,754,Approved
+APP0055,45,Male,Yes,2,Graduate,No,2.9,13.8,20,785,Approved
+APP0056,44,Male,No,1,Not Graduate,No,6.3,24.1,10,693,Rejected
+APP0057,26,Male,No,0,Not Graduate,Yes,4.3,30.4,25,637,Rejected
+APP0058,31,Female,Yes,3,Graduate,No,2.8,7.6,30,683,Approved
+APP0059,38,Female,Yes,0,Not Graduate,No,5.3,40.3,20,747,Approved
+APP0060,44,Female,No,1,Graduate,No,5.0,30.5,15,609,Rejected
+APP0061,30,Male,No,3,Not Graduate,No,25.9,134.4,20,646,Rejected
+APP0062,33,Female,Yes,0,Graduate,Yes,7.2,17.1,10,676,Approved
+APP0063,23,Female,No,0,Not Graduate,No,2.6,12.6,25,739,Rejected
+APP0064,23,Male,Yes,0,Graduate,No,4.3,19.1,25,737,Approved
+APP0065,43,Male,Yes,0,Graduate,No,11.2,33.2,25,696,Rejected
+APP0066,48,Female,No,0,Graduate,No,21.2,125.9,20,716,Rejected
+APP0067,34,Male,Yes,1,Graduate,No,2.3,18.0,25,678,Approved
+APP0068,45,Female,Yes,0,Graduate,No,2.0,10.7,25,672,Approved
+APP0069,38,Male,Yes,1,Graduate,Yes,22.3,117.0,25,798,Approved
+APP0070,28,Female,Yes,3,Graduate,No,7.6,18.3,25,632,Approved
+APP0071,38,Male,No,2,Graduate,No,3.6,16.2,25,791,Approved
+APP0072,50,Male,Yes,1,Graduate,No,8.3,22.4,25,764,Approved
+APP0073,34,Male,No,0,Not Graduate,No,2.0,11.4,20,730,Rejected
+APP0074,50,Female,Yes,1,Graduate,No,6.1,46.5,30,687,Rejected
+APP0075,18,Female,Yes,1,Not Graduate,Yes,7.7,44.2,25,661,Rejected
+APP0076,43,Male,Yes,1,Not Graduate,No,10.5,25.8,25,639,Approved
+APP0077,35,Male,No,0,Graduate,No,3.3,13.6,15,663,Rejected
+APP0078,32,Female,Yes,2,Graduate,No,6.4,33.9,25,744,Approved
+APP0079,35,Male,No,1,Not Graduate,No,3.5,15.5,25,742,Rejected
+APP0080,18,Female,Yes,0,Not Graduate,No,7.1,49.7,15,648,Rejected
+APP0081,32,Male,No,0,Graduate,No,3.5,24.1,10,673,Rejected
+APP0082,38,Male,Yes,1,Graduate,Yes,4.5,26.7,25,690,Approved
+APP0083,49,Male,No,2,Not Graduate,No,3.3,14.0,25,581,Rejected
+APP0084,29,Male,No,2,Graduate,No,8.9,31.4,25,730,Approved
+APP0085,26,Female,No,2,Graduate,No,10.1,26.6,15,691,Approved
+APP0086,29,Male,No,0,Not Graduate,Yes,4.5,21.9,25,638,Rejected
+APP0087,44,Male,No,1,Not Graduate,No,6.2,27.8,10,637,Rejected
+APP0088,38,Female,Yes,1,Graduate,No,2.5,15.1,20,667,Rejected
+APP0089,29,Male,Yes,0,Graduate,No,5.1,30.3,15,714,Approved
+APP0090,40,Male,Yes,0,Not Graduate,Yes,5.4,14.3,15,657,Approved
+APP0091,35,Female,No,2,Graduate,No,29.2,127.6,15,712,Rejected
+APP0092,44,Female,Yes,0,Graduate,No,3.1,9.6,20,671,Approved
+APP0093,27,Male,No,1,Graduate,No,14.6,42.9,10,754,Approved
+APP0094,31,Female,Yes,0,Not Graduate,No,11.0,76.6,20,824,Approved
+APP0095,31,Female,Yes,0,Graduate,No,7.2,16.2,25,723,Approved
+APP0096,20,Male,Yes,0,Not Graduate,No,17.4,78.6,20,784,Approved
+APP0097,37,Male,No,3,Not Graduate,No,7.6,22.9,20,581,Rejected
+APP0098,37,Female,Yes,2,Graduate,No,7.6,55.3,25,724,Approved
+APP0099,35,Female,Yes,3,Graduate,No,5.9,31.5,15,649,Rejected
+APP0100,32,Male,Yes,1,Graduate,No,12.6,42.7,25,666,Approved
+APP0101,20,Female,Yes,0,Not Graduate,No,11.7,58.7,10,710,Approved
+APP0102,30,Female,Yes,1,Graduate,Yes,5.4,26.8,10,771,Approved
+APP0103,31,Male,Yes,1,Not Graduate,Yes,2.6,20.9,25,727,Rejected
+APP0104,26,Male,No,2,Graduate,Yes,4.8,17.9,25,694,Approved
+APP0105,33,Male,Yes,0,Not Graduate,No,3.7,27.1,30,593,Rejected
+APP0106,39,Female,Yes,1,Graduate,No,5.8,44.1,25,703,Rejected
+APP0107,53,Male,Yes,0,Graduate,Yes,13.1,95.2,30,758,Approved
+APP0108,36,Male,Yes,0,Graduate,No,4.6,26.7,10,725,Approved
+APP0109,37,Female,Yes,2,Graduate,No,5.9,34.1,10,604,Rejected
+APP0110,34,Female,Yes,1,Not Graduate,No,6.3,27.8,10,631,Rejected
+APP0111,18,Male,Yes,0,Not Graduate,No,10.1,65.8,15,751,Approved
+APP0112,34,Female,Yes,0,Graduate,No,2.0,10.4,25,747,Approved
+APP0113,35,Male,No,1,Graduate,Yes,4.0,25.5,25,548,Rejected
+APP0114,59,Female,No,2,Graduate,No,6.9,31.5,10,685,Rejected
+APP0115,33,Male,No,2,Graduate,No,12.4,79.2,30,743,Approved
+APP0116,38,Male,Yes,3,Graduate,No,4.5,31.3,25,765,Approved
+APP0117,34,Female,Yes,2,Not Graduate,No,2.0,5.8,20,726,Approved
+APP0118,23,Male,Yes,0,Graduate,No,8.8,61.6,10,749,Approved
+APP0119,46,Male,Yes,1,Not Graduate,Yes,3.4,21.5,15,622,Rejected
+APP0120,42,Female,No,1,Graduate,No,3.0,21.2,15,580,Rejected
+APP0121,42,Female,Yes,0,Graduate,No,4.2,19.3,15,691,Approved
+APP0122,25,Female,Yes,2,Graduate,No,5.4,23.1,25,775,Approved
+APP0123,49,Female,Yes,0,Graduate,Yes,4.0,31.5,15,783,Rejected
+APP0124,20,Male,No,3,Not Graduate,No,2.0,7.0,20,737,Rejected
+APP0125,40,Male,Yes,1,Graduate,No,10.4,73.5,30,780,Approved
+APP0126,56,Male,Yes,1,Graduate,No,13.0,63.8,25,777,Approved
+APP0127,25,Male,Yes,1,Graduate,No,8.9,45.3,30,681,Approved
+APP0128,29,Female,Yes,2,Graduate,No,3.1,11.9,15,707,Approved
+APP0129,35,Male,Yes,1,Not Graduate,No,5.4,29.4,20,785,Rejected
+APP0130,29,Male,Yes,1,Graduate,No,6.0,23.7,25,658,Approved
+APP0131,19,Male,Yes,0,Not Graduate,No,8.7,19.4,10,811,Approved
+APP0132,35,Female,Yes,1,Graduate,No,9.0,32.7,10,695,Approved
+APP0133,24,Male,Yes,0,Graduate,No,3.9,7.9,25,794,Approved
+APP0134,39,Male,Yes,2,Graduate,No,6.4,50.4,25,630,Rejected
+APP0135,25,Male,Yes,1,Graduate,No,8.0,62.4,20,750,Approved
+APP0136,50,Female,No,1,Graduate,No,14.5,63.4,20,690,Approved
+APP0137,27,Male,No,0,Graduate,No,9.2,58.6,20,610,Rejected
+APP0138,31,Female,Yes,0,Graduate,No,9.7,39.5,10,728,Approved
+APP0139,43,Female,Yes,2,Graduate,Yes,6.9,38.6,20,760,Rejected
+APP0140,22,Male,Yes,0,Not Graduate,No,14.1,96.3,15,704,Rejected
+APP0141,37,Female,Yes,0,Graduate,No,7.7,59.1,10,625,Approved
+APP0142,48,Female,No,0,Graduate,No,3.6,15.8,30,689,Approved
+APP0143,18,Female,Yes,3,Not Graduate,No,14.0,93.8,25,719,Rejected
+APP0144,36,Male,No,2,Graduate,No,9.2,33.1,25,727,Rejected
+APP0145,37,Male,Yes,0,Graduate,No,4.6,36.5,20,771,Approved
+APP0146,42,Female,Yes,0,Graduate,No,4.5,9.7,20,711,Approved
+APP0147,22,Male,No,0,Not Graduate,No,7.2,40.5,15,776,Approved
+APP0148,21,Female,No,2,Not Graduate,No,8.0,47.7,10,708,Rejected
+APP0149,40,Female,No,1,Graduate,No,6.8,41.7,15,674,Approved
+APP0150,37,Female,No,0,Graduate,No,7.3,19.9,25,598,Approved
+APP0151,37,Male,Yes,0,Graduate,No,16.8,128.2,25,739,Approved
+APP0152,38,Male,No,0,Graduate,No,11.5,35.5,25,714,Rejected
+APP0153,28,Female,Yes,1,Graduate,No,6.8,39.0,20,772,Approved
+APP0154,37,Female,No,2,Not Graduate,No,10.6,35.4,30,732,Rejected
+APP0155,37,Male,Yes,0,Graduate,No,3.3,12.7,10,644,Approved
+APP0156,27,Female,No,0,Not Graduate,No,7.7,40.6,20,675,Rejected
+APP0157,53,Female,Yes,0,Not Graduate,No,17.9,80.6,20,765,Rejected
+APP0158,39,Male,Yes,3,Graduate,No,5.3,15.7,25,806,Approved
+APP0159,23,Male,Yes,0,Graduate,No,3.6,10.9,30,768,Approved
+APP0160,41,Male,No,2,Graduate,Yes,4.4,18.5,15,725,Rejected
+APP0161,25,Male,Yes,1,Graduate,Yes,3.0,20.3,30,703,Rejected
+APP0162,42,Male,Yes,0,Graduate,No,3.8,28.1,25,738,Approved
+APP0163,46,Female,Yes,0,Not Graduate,No,4.8,12.0,15,759,Approved
+APP0164,26,Male,Yes,0,Not Graduate,No,2.6,11.3,20,605,Rejected
+APP0165,44,Male,No,1,Graduate,No,6.1,15.9,20,674,Approved
+APP0166,39,Male,Yes,2,Graduate,No,10.4,21.8,30,708,Approved
+APP0167,43,Male,No,1,Not Graduate,No,3.5,20.9,15,687,Rejected
+APP0168,53,Female,Yes,1,Not Graduate,No,15.1,84.8,25,798,Approved
+APP0169,32,Male,Yes,0,Not Graduate,No,8.2,24.4,20,649,Approved
+APP0170,27,Male,No,3,Graduate,Yes,11.5,38.1,25,576,Rejected
+APP0171,26,Female,No,2,Graduate,No,4.1,8.8,20,670,Rejected
+APP0172,26,Male,Yes,0,Graduate,Yes,13.0,70.8,25,794,Approved
+APP0173,34,Male,Yes,3,Graduate,No,3.1,24.3,25,747,Approved
+APP0174,38,Male,No,1,Graduate,No,10.3,29.0,25,760,Approved
+APP0175,37,Male,Yes,1,Graduate,Yes,6.6,22.7,30,683,Approved
+APP0176,43,Male,No,2,Graduate,No,8.4,60.6,10,618,Approved
+APP0177,35,Male,No,2,Graduate,No,3.0,22.7,25,725,Rejected
+APP0178,49,Male,No,1,Graduate,No,3.5,15.8,15,644,Rejected
+APP0179,32,Female,Yes,0,Graduate,No,8.7,20.0,20,846,Approved
+APP0180,62,Male,No,0,Graduate,Yes,3.2,7.6,25,714,Approved
+APP0181,41,Male,Yes,3,Graduate,No,8.0,43.5,20,680,Approved
+APP0182,26,Female,Yes,0,Graduate,No,2.7,11.8,25,678,Approved
+APP0183,24,Male,Yes,0,Not Graduate,No,10.1,21.9,30,719,Approved
+APP0184,39,Female,Yes,1,Graduate,No,2.9,15.9,15,700,Rejected
+APP0185,32,Male,No,1,Graduate,No,8.4,17.4,25,762,Approved
+APP0186,42,Female,No,1,Graduate,No,8.8,59.2,20,706,Approved
+APP0187,39,Male,No,3,Not Graduate,No,4.0,15.4,15,621,Approved
+APP0188,34,Male,Yes,0,Graduate,No,8.6,19.3,15,828,Approved
+APP0189,26,Male,Yes,0,Graduate,No,7.1,39.3,30,717,Approved
+APP0190,19,Female,Yes,0,Not Graduate,No,4.4,19.3,30,761,Approved
+APP0191,30,Male,No,2,Graduate,No,3.3,25.9,30,658,Rejected
+APP0192,43,Male,Yes,1,Graduate,No,2.0,10.5,30,736,Approved
+APP0193,37,Male,No,0,Graduate,No,7.5,27.4,15,713,Approved
+APP0194,22,Female,Yes,2,Not Graduate,No,2.4,15.0,20,571,Rejected
+APP0195,36,Male,Yes,2,Graduate,No,6.4,23.2,25,835,Approved
+APP0196,38,Female,No,2,Not Graduate,No,5.2,38.6,20,742,Rejected
+APP0197,26,Male,Yes,3,Not Graduate,Yes,8.4,38.7,20,646,Rejected
+APP0198,36,Male,No,0,Graduate,No,5.0,26.5,20,628,Approved
+APP0199,35,Male,No,2,Not Graduate,No,5.0,11.5,25,685,Approved
+APP0200,23,Male,Yes,1,Graduate,Yes,9.7,42.8,25,705,Approved
+APP0201,38,Male,Yes,2,Graduate,Yes,8.7,51.8,15,721,Approved
+APP0202,40,Male,Yes,2,Graduate,No,7.3,49.9,20,726,Approved
+APP0203,45,Female,No,2,Graduate,No,8.0,26.8,25,725,Approved
+APP0204,45,Male,Yes,1,Graduate,No,2.4,8.1,25,801,Approved
+APP0205,21,Male,Yes,0,Not Graduate,No,9.5,65.6,15,749,Rejected
+APP0206,25,Male,Yes,1,Graduate,No,8.7,66.0,25,652,Approved
+APP0207,40,Male,No,3,Graduate,No,3.3,8.5,10,776,Approved
+APP0208,40,Male,Yes,3,Graduate,No,5.2,24.4,20,813,Approved
+APP0209,40,Male,No,0,Graduate,No,5.9,23.7,25,850,Approved
+APP0210,65,Male,No,0,Graduate,No,5.6,40.5,25,627,Rejected
+APP0211,40,Female,Yes,0,Graduate,No,7.4,18.5,20,729,Approved
+APP0212,46,Female,Yes,2,Not Graduate,No,14.3,46.7,25,600,Rejected
+APP0213,44,Male,No,2,Graduate,No,11.6,75.6,25,768,Approved
+APP0214,41,Male,Yes,0,Not Graduate,No,2.8,6.5,25,652,Approved
+APP0215,31,Female,No,1,Graduate,No,8.8,43.6,25,810,Approved
+APP0216,42,Male,Yes,2,Graduate,No,13.4,62.3,25,708,Approved
+APP0217,27,Male,Yes,2,Graduate,No,7.6,30.4,20,613,Approved
+APP0218,32,Male,No,1,Graduate,No,11.6,50.7,15,706,Rejected
+APP0219,30,Female,Yes,1,Graduate,No,20.2,104.6,20,636,Approved
+APP0220,35,Female,Yes,1,Not Graduate,No,11.2,33.2,20,770,Approved
+APP0221,58,Male,Yes,0,Graduate,No,7.0,38.0,25,591,Approved
+APP0222,18,Male,Yes,1,Not Graduate,No,11.3,77.2,25,726,Approved
+APP0223,41,Male,Yes,1,Not Graduate,No,6.6,43.3,20,560,Rejected
+APP0224,18,Female,Yes,2,Not Graduate,No,6.1,17.8,10,665,Approved
+APP0225,30,Male,No,1,Not Graduate,No,4.9,14.2,20,763,Rejected
+APP0226,45,Male,Yes,2,Graduate,Yes,14.0,55.9,20,761,Approved
+APP0227,35,Female,No,0,Graduate,Yes,4.3,15.4,25,628,Rejected
+APP0228,24,Male,Yes,1,Graduate,No,15.2,67.7,10,753,Rejected
+APP0229,27,Female,No,0,Graduate,No,8.2,49.8,25,696,Rejected
+APP0230,41,Male,Yes,0,Graduate,No,2.6,6.1,30,743,Approved
+APP0231,27,Male,No,2,Not Graduate,No,7.5,16.6,15,582,Rejected
+APP0232,37,Male,Yes,3,Graduate,No,2.0,8.7,20,750,Approved
+APP0233,35,Female,Yes,0,Graduate,No,8.8,54.4,10,552,Approved
+APP0234,28,Female,Yes,1,Graduate,No,10.3,32.6,25,717,Approved
+APP0235,56,Female,Yes,2,Graduate,No,4.2,24.6,25,685,Approved
+APP0236,41,Male,Yes,0,Graduate,No,6.5,23.1,20,752,Approved
+APP0237,18,Female,Yes,1,Not Graduate,No,19.5,142.7,25,726,Rejected
+APP0238,36,Male,No,2,Graduate,No,4.5,33.2,30,610,Approved
+APP0239,28,Male,Yes,1,Graduate,No,3.2,12.1,15,655,Approved
+APP0240,43,Female,Yes,0,Graduate,No,14.7,49.7,10,766,Approved
+APP0241,27,Male,Yes,0,Graduate,No,19.6,87.6,30,750,Approved
+APP0242,33,Male,No,2,Graduate,Yes,4.9,21.0,25,645,Rejected
+APP0243,40,Male,Yes,1,Graduate,Yes,11.2,67.0,30,711,Approved
+APP0244,43,Male,Yes,0,Graduate,No,13.5,93.9,25,796,Approved
+APP0245,22,Male,Yes,2,Not Graduate,Yes,4.6,23.6,25,668,Approved
+APP0246,31,Male,No,0,Graduate,No,4.5,31.3,20,689,Rejected
+APP0247,30,Male,No,2,Graduate,No,12.7,55.7,25,850,Approved
+APP0248,28,Female,Yes,0,Graduate,Yes,16.1,48.8,30,654,Approved
+APP0249,52,Female,No,3,Graduate,No,8.5,54.6,25,583,Rejected
+APP0250,39,Male,No,0,Graduate,No,3.6,15.0,15,742,Approved
+APP0251,22,Male,Yes,0,Not Graduate,No,19.9,119.9,20,684,Approved
+APP0252,44,Male,No,0,Graduate,No,4.4,15.9,15,675,Approved
+APP0253,56,Male,Yes,0,Graduate,No,4.9,12.2,15,668,Approved
+APP0254,45,Male,Yes,2,Graduate,Yes,8.0,58.9,20,684,Approved
+APP0255,19,Female,Yes,3,Not Graduate,No,15.4,45.2,25,850,Approved
+APP0256,30,Male,Yes,0,Graduate,No,10.1,80.1,25,803,Approved
+APP0257,47,Male,Yes,1,Graduate,No,7.8,61.3,20,766,Approved
+APP0258,27,Male,No,2,Not Graduate,No,8.0,54.1,25,580,Rejected
+APP0259,39,Male,Yes,2,Graduate,No,6.2,36.9,10,645,Approved
+APP0260,42,Female,Yes,1,Graduate,No,8.5,46.5,10,544,Rejected
+APP0261,25,Female,Yes,0,Graduate,No,2.0,14.4,15,666,Approved
+APP0262,34,Male,No,1,Graduate,No,5.1,19.1,25,752,Approved
+APP0263,18,Female,Yes,1,Not Graduate,No,7.0,33.6,15,746,Approved
+APP0264,24,Male,Yes,0,Graduate,No,3.0,17.1,20,701,Approved
+APP0265,32,Female,Yes,1,Not Graduate,No,7.6,34.0,20,683,Rejected
+APP0266,22,Female,Yes,0,Not Graduate,No,5.4,24.7,25,673,Approved
+APP0267,51,Male,No,2,Graduate,No,17.3,68.9,10,747,Rejected
+APP0268,20,Male,No,0,Not Graduate,No,15.5,83.5,25,750,Approved
+APP0269,30,Male,Yes,1,Graduate,No,4.6,32.7,25,618,Rejected
+APP0270,36,Male,No,1,Not Graduate,No,5.5,17.7,25,682,Rejected
+APP0271,49,Female,Yes,1,Graduate,No,5.8,44.1,30,770,Approved
+APP0272,20,Male,No,0,Not Graduate,No,4.6,28.2,10,640,Rejected
+APP0273,46,Male,Yes,1,Graduate,No,6.8,47.2,15,757,Approved
+APP0274,35,Female,Yes,1,Not Graduate,No,3.8,20.3,30,850,Approved
+APP0275,25,Female,Yes,1,Not Graduate,Yes,2.8,20.7,20,663,Rejected
+APP0276,39,Male,No,1,Graduate,No,8.8,18.5,25,718,Approved
+APP0277,36,Male,Yes,1,Not Graduate,No,8.8,60.8,25,640,Approved
+APP0278,28,Male,Yes,2,Graduate,No,3.7,8.3,25,725,Approved
+APP0279,35,Male,Yes,0,Graduate,No,10.4,76.3,30,782,Approved
+APP0280,31,Female,No,2,Graduate,No,4.1,32.6,30,706,Rejected
+APP0281,36,Male,Yes,1,Graduate,No,7.0,26.4,25,653,Approved
+APP0282,41,Male,No,0,Graduate,Yes,11.6,32.3,20,692,Rejected
+APP0283,50,Male,No,0,Graduate,No,5.9,38.9,30,782,Rejected
+APP0284,22,Male,Yes,0,Not Graduate,No,7.9,27.8,10,741,Approved
+APP0285,56,Female,No,2,Not Graduate,No,4.4,31.7,15,722,Rejected
+APP0286,18,Female,Yes,2,Not Graduate,No,5.4,14.1,30,670,Approved
+APP0287,33,Male,No,2,Graduate,No,5.3,14.6,20,739,Approved
+APP0288,40,Male,Yes,1,Graduate,Yes,3.2,30.7,15,716,Approved
+APP0289,37,Male,No,1,Graduate,No,5.4,32.6,15,637,Rejected
+APP0290,28,Female,No,0,Graduate,No,2.4,17.0,30,714,Approved
+APP0291,32,Female,No,0,Graduate,No,4.5,17.8,25,635,Approved
+APP0292,30,Male,No,1,Graduate,No,5.1,30.9,25,657,Rejected
+APP0293,29,Female,Yes,0,Graduate,No,5.2,28.9,15,726,Approved
+APP0294,43,Female,Yes,0,Not Graduate,No,5.2,29.2,25,702,Rejected
+APP0295,38,Male,No,1,Graduate,No,5.8,35.4,25,623,Approved
+APP0296,28,Female,Yes,2,Graduate,No,8.1,44.2,20,778,Approved
+APP0297,43,Male,Yes,3,Graduate,No,10.2,46.7,20,789,Approved
+APP0298,38,Male,No,3,Graduate,No,4.1,15.0,15,652,Rejected
+APP0299,43,Male,No,1,Graduate,No,2.9,19.2,30,602,Rejected
+APP0300,41,Male,No,1,Graduate,No,3.2,10.7,25,686,Approved
+APP0301,26,Male,Yes,1,Graduate,No,4.5,27.7,30,688,Approved
+APP0302,29,Female,No,2,Graduate,No,4.9,16.7,20,701,Approved
+APP0303,42,Male,Yes,0,Not Graduate,No,3.8,21.9,25,663,Rejected
+APP0304,41,Female,No,1,Not Graduate,No,2.8,18.2,25,544,Rejected
+APP0305,34,Male,Yes,2,Graduate,No,4.6,15.2,25,691,Approved
+APP0306,36,Male,No,0,Graduate,No,6.7,15.8,30,676,Approved
+APP0307,47,Male,No,1,Graduate,No,8.6,24.0,20,733,Approved
+APP0308,29,Male,Yes,1,Graduate,No,4.3,24.2,15,673,Rejected
+APP0309,40,Female,No,0,Graduate,No,4.7,33.4,25,795,Approved
+APP0310,32,Male,Yes,0,Graduate,No,3.5,7.9,25,600,Approved
+APP0311,32,Male,No,0,Graduate,No,5.9,37.8,25,773,Approved
+APP0312,45,Male,No,0,Graduate,No,3.6,14.6,15,681,Approved
+APP0313,43,Female,Yes,0,Graduate,No,8.5,41.4,25,766,Approved
+APP0314,43,Female,No,2,Not Graduate,No,2.1,15.9,20,669,Rejected
+APP0315,48,Female,No,0,Not Graduate,No,4.9,19.6,20,733,Rejected
+APP0316,35,Male,Yes,1,Not Graduate,No,7.2,34.5,25,661,Rejected
+APP0317,41,Male,Yes,0,Graduate,No,6.8,14.2,25,649,Approved
+APP0318,31,Male,No,3,Not Graduate,Yes,37.3,75.7,15,775,Approved
+APP0319,38,Male,No,0,Graduate,No,7.5,26.6,20,688,Approved
+APP0320,33,Male,No,1,Not Graduate,Yes,3.0,7.2,20,663,Rejected
+APP0321,35,Male,No,2,Graduate,No,5.7,33.0,15,769,Approved
+APP0322,40,Male,Yes,2,Not Graduate,No,2.1,9.6,25,623,Rejected
+APP0323,26,Male,No,0,Graduate,No,5.8,30.7,30,730,Rejected
+APP0324,55,Female,Yes,2,Not Graduate,No,3.7,11.3,20,649,Approved
+APP0325,24,Male,Yes,1,Not Graduate,No,10.5,39.6,25,717,Approved
+APP0326,22,Male,Yes,1,Not Graduate,No,4.4,26.3,30,719,Approved
+APP0327,46,Female,Yes,0,Graduate,No,5.6,43.6,25,624,Rejected
+APP0328,42,Male,Yes,0,Not Graduate,No,4.1,9.4,15,638,Approved
+APP0329,41,Female,Yes,2,Graduate,Yes,21.3,126.3,30,821,Approved
+APP0330,41,Male,No,1,Not Graduate,No,5.0,27.3,20,718,Approved
+APP0331,34,Male,Yes,1,Graduate,No,18.2,98.0,20,751,Approved
+APP0332,26,Female,Yes,2,Graduate,No,9.9,49.5,10,729,Approved
+APP0333,35,Female,Yes,2,Graduate,No,8.1,19.6,20,697,Approved
+APP0334,28,Female,Yes,0,Graduate,No,7.5,19.0,15,796,Approved
+APP0335,44,Male,Yes,1,Not Graduate,No,7.7,43.2,15,672,Approved
+APP0336,33,Male,Yes,0,Graduate,No,2.0,8.1,20,728,Approved
+APP0337,26,Male,Yes,2,Graduate,Yes,5.0,38.3,25,768,Approved
+APP0338,31,Male,No,1,Graduate,No,10.0,44.4,30,648,Rejected
+APP0339,39,Female,Yes,3,Graduate,No,5.9,16.9,20,808,Approved
+APP0340,29,Male,Yes,0,Not Graduate,No,2.6,16.3,30,593,Rejected
+APP0341,26,Female,Yes,0,Not Graduate,No,5.9,22.2,30,782,Approved
+APP0342,37,Male,No,0,Graduate,No,16.8,86.6,25,712,Rejected
+APP0343,37,Male,Yes,0,Not Graduate,No,12.8,79.2,15,710,Approved
+APP0344,29,Male,Yes,0,Not Graduate,No,5.8,42.9,25,571,Rejected
+APP0345,30,Female,Yes,3,Graduate,No,10.7,72.3,30,727,Approved
+APP0346,37,Female,Yes,0,Not Graduate,No,4.9,29.7,25,622,Rejected
+APP0347,20,Female,Yes,0,Not Graduate,No,2.2,13.4,20,678,Rejected
+APP0348,20,Female,Yes,2,Not Graduate,No,3.5,26.9,25,706,Approved
+APP0349,27,Female,Yes,1,Not Graduate,No,15.5,58.5,25,782,Approved
+APP0350,32,Female,Yes,2,Graduate,Yes,5.9,10.2,25,712,Approved
+APP0351,38,Male,Yes,0,Not Graduate,No,5.2,18.9,15,703,Approved
+APP0352,49,Male,No,1,Not Graduate,Yes,4.9,16.9,20,584,Rejected
+APP0353,43,Male,No,0,Graduate,No,19.0,113.4,25,682,Rejected
+APP0354,33,Female,No,0,Not Graduate,No,16.0,92.8,30,812,Rejected
+APP0355,34,Female,No,3,Graduate,No,22.9,127.3,15,690,Approved
+APP0356,24,Male,Yes,0,Graduate,No,5.5,11.5,30,814,Approved
+APP0357,34,Female,Yes,1,Graduate,No,7.2,45.9,20,700,Rejected
+APP0358,32,Female,Yes,1,Not Graduate,No,2.4,9.5,25,685,Rejected
+APP0359,38,Male,Yes,0,Graduate,No,14.7,88.1,25,819,Approved
+APP0360,26,Male,No,2,Graduate,No,3.0,16.0,25,771,Approved
+APP0361,40,Female,Yes,0,Graduate,Yes,8.6,28.0,30,693,Approved
+APP0362,50,Male,No,1,Not Graduate,No,3.1,8.7,20,641,Rejected
+APP0363,33,Female,Yes,3,Graduate,No,4.2,10.8,30,711,Approved
+APP0364,39,Male,No,1,Graduate,No,3.7,25.9,15,715,Rejected
+APP0365,41,Female,Yes,3,Graduate,No,4.2,31.5,25,768,Rejected
+APP0366,30,Female,Yes,0,Graduate,No,4.4,26.0,25,715,Rejected
+APP0367,37,Female,Yes,1,Not Graduate,Yes,3.8,11.5,25,707,Approved
+APP0368,35,Male,Yes,0,Graduate,No,10.0,44.1,20,813,Approved
+APP0369,35,Female,Yes,2,Graduate,No,3.1,19.8,30,737,Approved
+APP0370,27,Female,Yes,3,Not Graduate,No,6.9,46.1,15,703,Approved
+APP0371,35,Male,No,0,Graduate,No,12.6,34.1,10,643,Approved
+APP0372,39,Female,Yes,1,Not Graduate,No,4.4,8.8,25,527,Approved
+APP0373,49,Male,Yes,0,Graduate,No,3.9,24.5,20,738,Rejected
+APP0374,44,Male,Yes,1,Not Graduate,No,5.3,21.9,25,679,Approved
+APP0375,56,Male,No,1,Graduate,No,12.3,43.4,20,704,Rejected
+APP0376,27,Male,Yes,3,Graduate,Yes,6.0,14.1,15,714,Approved
+APP0377,43,Male,Yes,1,Not Graduate,No,4.4,23.1,25,681,Rejected
+APP0378,36,Female,Yes,0,Not Graduate,No,8.1,57.6,25,752,Approved
+APP0379,56,Male,Yes,0,Not Graduate,No,3.1,24.0,15,690,Rejected
+APP0380,26,Female,No,0,Graduate,No,9.1,49.1,25,650,Approved
+APP0381,26,Male,Yes,0,Not Graduate,Yes,8.1,39.2,25,729,Approved
+APP0382,29,Male,Yes,0,Not Graduate,No,5.0,12.6,25,671,Approved
+APP0383,18,Male,No,2,Not Graduate,No,3.7,19.6,20,726,Rejected
+APP0384,29,Female,Yes,1,Not Graduate,No,3.6,15.4,25,656,Rejected
+APP0385,27,Male,Yes,1,Not Graduate,Yes,7.0,46.8,25,631,Rejected
+APP0386,36,Female,Yes,0,Graduate,No,12.6,54.6,25,760,Approved
+APP0387,38,Female,No,2,Graduate,No,4.1,14.1,15,695,Approved
+APP0388,53,Female,Yes,2,Graduate,No,8.0,20.6,25,743,Approved
+APP0389,44,Male,No,0,Graduate,No,2.0,7.8,25,678,Rejected
+APP0390,29,Male,Yes,2,Graduate,No,4.3,11.1,25,604,Approved
+APP0391,26,Female,Yes,1,Graduate,No,5.9,18.1,20,689,Approved
+APP0392,39,Male,Yes,0,Graduate,No,3.5,27.7,30,762,Approved
+APP0393,21,Female,No,1,Not Graduate,No,3.4,15.9,25,677,Rejected
+APP0394,53,Male,Yes,1,Graduate,No,4.1,21.3,15,700,Approved
+APP0395,46,Female,No,0,Not Graduate,No,7.2,52.1,20,724,Rejected
+APP0396,30,Female,No,3,Not Graduate,No,5.4,43.1,30,622,Rejected
+APP0397,18,Female,Yes,2,Not Graduate,No,2.0,11.0,10,622,Approved
+APP0398,48,Male,Yes,1,Not Graduate,No,2.0,13.7,30,675,Rejected
+APP0399,33,Female,Yes,1,Graduate,No,4.2,16.6,25,685,Approved
+APP0400,47,Male,Yes,1,Graduate,Yes,7.2,30.7,25,642,Rejected
+APP0401,19,Male,No,1,Not Graduate,Yes,2.5,8.8,20,669,Rejected
+APP0402,29,Female,No,1,Graduate,No,4.5,27.2,15,724,Rejected
+APP0403,35,Female,Yes,0,Not Graduate,No,4.4,26.8,30,684,Approved
+APP0404,35,Female,Yes,1,Not Graduate,Yes,17.9,54.1,20,728,Approved
+APP0405,30,Female,No,2,Graduate,No,4.8,13.4,25,803,Approved
+APP0406,41,Male,Yes,1,Graduate,No,7.6,44.0,20,694,Approved
+APP0407,24,Male,No,0,Graduate,No,6.6,18.3,15,711,Approved
+APP0408,33,Female,Yes,2,Graduate,No,2.0,10.9,10,684,Approved
+APP0409,36,Male,No,0,Graduate,Yes,9.5,59.1,25,629,Approved
+APP0410,40,Male,Yes,0,Graduate,No,6.9,42.8,30,679,Approved
+APP0411,42,Male,Yes,0,Not Graduate,No,8.2,53.5,20,656,Rejected
+APP0412,23,Male,Yes,0,Not Graduate,No,50.0,200.0,20,746,Approved
+APP0413,19,Male,Yes,2,Not Graduate,No,2.0,10.0,20,850,Approved
+APP0414,47,Male,Yes,1,Not Graduate,No,17.0,108.5,25,682,Rejected
+APP0415,38,Male,No,0,Graduate,No,5.1,29.1,20,670,Rejected
+APP0416,27,Male,No,2,Graduate,No,7.2,22.5,30,691,Approved
+APP0417,50,Female,Yes,2,Graduate,No,5.9,12.7,25,738,Approved
+APP0418,36,Male,Yes,2,Graduate,No,4.7,17.4,25,730,Approved
+APP0419,46,Male,Yes,0,Not Graduate,No,4.3,20.0,15,762,Approved
+APP0420,35,Female,Yes,1,Graduate,Yes,9.3,42.2,30,554,Rejected
+APP0421,55,Male,Yes,3,Graduate,No,2.4,17.0,15,571,Rejected
+APP0422,52,Female,Yes,2,Graduate,No,9.5,30.2,10,685,Approved
+APP0423,32,Female,Yes,0,Graduate,No,4.7,12.9,25,780,Approved
+APP0424,44,Male,Yes,0,Not Graduate,No,3.1,24.1,25,591,Approved
+APP0425,41,Male,Yes,1,Graduate,No,4.6,12.2,20,534,Approved
+APP0426,48,Female,Yes,3,Graduate,No,12.9,62.8,20,789,Approved
+APP0427,25,Female,No,1,Graduate,No,4.4,24.3,25,709,Rejected
+APP0428,41,Male,Yes,1,Graduate,No,7.5,39.4,15,649,Rejected
+APP0429,45,Female,No,0,Graduate,No,3.9,9.8,25,635,Approved
+APP0430,18,Male,Yes,1,Not Graduate,Yes,10.2,22.3,25,641,Approved
+APP0431,23,Female,Yes,2,Graduate,No,9.1,24.0,20,721,Approved
+APP0432,18,Male,No,0,Not Graduate,No,18.3,100.9,20,667,Rejected
+APP0433,32,Female,No,2,Not Graduate,No,5.4,28.4,20,694,Approved
+APP0434,42,Female,No,3,Not Graduate,No,9.0,30.6,25,493,Rejected
+APP0435,50,Female,Yes,0,Graduate,No,6.4,37.3,25,663,Approved
+APP0436,35,Male,Yes,1,Graduate,No,13.2,91.3,20,687,Approved
+APP0437,51,Male,No,0,Graduate,No,3.9,8.8,25,679,Approved
+APP0438,21,Male,Yes,2,Not Graduate,No,9.5,47.4,30,652,Rejected
+APP0439,18,Male,Yes,1,Not Graduate,No,5.4,33.1,20,762,Approved
+APP0440,34,Male,Yes,1,Graduate,Yes,5.4,20.4,30,588,Approved
+APP0441,38,Female,Yes,2,Graduate,Yes,7.4,24.6,20,702,Approved
+APP0442,34,Male,No,0,Graduate,No,7.0,39.8,10,728,Approved
+APP0443,18,Male,Yes,3,Not Graduate,Yes,6.3,41.4,15,811,Approved
+APP0444,34,Female,Yes,1,Graduate,No,6.9,47.3,20,686,Approved
+APP0445,21,Female,Yes,0,Not Graduate,No,15.6,85.8,15,744,Approved
+APP0446,41,Female,Yes,1,Graduate,No,10.9,69.6,10,646,Approved
+APP0447,38,Female,Yes,2,Graduate,No,10.2,42.7,30,611,Approved
+APP0448,25,Male,Yes,0,Graduate,No,4.6,26.9,25,765,Approved
+APP0449,29,Male,Yes,2,Graduate,No,3.5,16.8,25,714,Approved
+APP0450,24,Female,No,3,Graduate,Yes,13.9,33.6,15,790,Approved
+APP0451,34,Female,Yes,0,Not Graduate,No,10.2,63.3,15,642,Rejected
+APP0452,44,Male,Yes,3,Graduate,No,14.6,77.9,10,786,Rejected
+APP0453,25,Female,No,0,Not Graduate,No,4.2,17.4,25,777,Approved
+APP0454,40,Male,No,0,Graduate,No,5.3,39.6,30,720,Rejected
+APP0455,29,Male,Yes,0,Graduate,No,2.3,5.0,20,731,Approved
+APP0456,27,Male,Yes,2,Not Graduate,Yes,4.5,18.7,15,670,Rejected
+APP0457,33,Male,Yes,1,Graduate,No,11.0,25.8,25,660,Approved
+APP0458,24,Male,No,0,Graduate,No,4.6,30.4,20,776,Rejected
+APP0459,29,Male,No,1,Graduate,No,8.9,55.3,20,658,Rejected
+APP0460,23,Female,No,1,Graduate,Yes,6.1,21.5,25,710,Rejected
+APP0461,54,Male,Yes,0,Not Graduate,No,7.3,44.2,25,591,Rejected
+APP0462,35,Male,No,2,Graduate,No,3.0,13.1,15,624,Approved
+APP0463,28,Female,Yes,2,Not Graduate,No,6.4,41.8,10,771,Rejected
+APP0464,37,Female,Yes,1,Not Graduate,No,2.0,9.5,30,664,Rejected
+APP0465,33,Female,Yes,3,Graduate,Yes,4.5,24.2,15,787,Approved
+APP0466,32,Female,No,1,Not Graduate,No,2.3,17.5,10,660,Rejected
+APP0467,41,Female,Yes,3,Graduate,No,12.5,43.8,15,644,Approved
+APP0468,42,Male,No,1,Not Graduate,No,9.6,26.1,10,718,Approved
+APP0469,29,Male,Yes,1,Graduate,No,8.0,44.1,20,679,Approved
+APP0470,29,Male,Yes,0,Graduate,Yes,12.9,118.0,25,781,Approved
+APP0471,32,Male,Yes,2,Graduate,No,3.4,14.5,20,716,Approved
+APP0472,18,Male,Yes,1,Not Graduate,No,17.3,41.0,20,662,Approved
+APP0473,19,Female,No,0,Not Graduate,No,10.6,42.8,25,744,Approved
+APP0474,48,Male,Yes,0,Not Graduate,No,5.2,26.2,25,816,Rejected
+APP0475,51,Male,No,1,Graduate,No,12.0,35.7,30,764,Approved
+APP0476,32,Male,No,1,Graduate,No,3.1,18.4,30,691,Rejected
+APP0477,40,Female,No,2,Not Graduate,No,3.7,29.6,10,729,Rejected
+APP0478,38,Male,Yes,2,Graduate,No,4.2,19.8,25,727,Approved
+APP0479,65,Female,Yes,0,Not Graduate,No,4.4,18.2,20,697,Rejected
+APP0480,46,Male,Yes,2,Not Graduate,No,3.2,14.1,30,619,Rejected
+APP0481,33,Male,No,0,Not Graduate,No,12.6,33.9,20,719,Rejected
+APP0482,25,Male,No,2,Not Graduate,Yes,4.2,38.0,30,712,Rejected
+APP0483,18,Female,Yes,2,Not Graduate,No,7.5,33.7,25,664,Rejected
+APP0484,37,Male,No,1,Graduate,No,4.3,18.6,15,780,Approved
+APP0485,27,Female,Yes,2,Not Graduate,No,2.0,11.9,25,679,Rejected
+APP0486,20,Male,Yes,0,Not Graduate,No,7.1,33.0,30,661,Approved
+APP0487,28,Male,Yes,1,Graduate,No,2.0,11.8,30,774,Approved
+APP0488,24,Female,No,2,Graduate,No,5.8,13.7,10,677,Approved
+APP0489,51,Female,Yes,1,Not Graduate,No,2.7,18.6,25,730,Approved
+APP0490,43,Female,No,0,Graduate,No,19.9,152.1,20,717,Approved
+APP0491,34,Female,No,1,Graduate,No,10.5,61.9,10,731,Rejected
+APP0492,49,Female,No,2,Graduate,No,6.4,49.5,20,724,Approved
+APP0493,35,Female,Yes,0,Graduate,No,12.9,37.5,15,772,Approved
+APP0494,26,Female,Yes,0,Graduate,No,3.6,17.5,25,595,Approved
+APP0495,50,Female,Yes,2,Graduate,No,8.4,47.1,20,647,Approved
+APP0496,40,Female,Yes,2,Graduate,No,6.8,37.3,25,770,Approved
+APP0497,24,Female,Yes,0,Not Graduate,No,7.1,31.3,10,677,Rejected
+APP0498,33,Female,No,0,Graduate,No,13.0,52.4,20,703,Rejected
+APP0499,26,Male,Yes,0,Not Graduate,No,9.4,26.0,15,603,Approved
+APP0500,21,Female,Yes,0,Not Graduate,Yes,9.4,31.3,15,605,Rejected
